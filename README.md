@@ -1,2 +1,2 @@
-# Information-systems-project-Manager
-帮助备考信息系统项目管理师
+# 信息系统项目管理师备考指南
+旨在帮助备考信息系统项目管理师。
